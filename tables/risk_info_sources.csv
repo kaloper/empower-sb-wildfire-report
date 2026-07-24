@@ -1,0 +1,14 @@
+option,n_all,pct_all,fw_n,fw_pct,nonfw_n,nonfw_pct,diff_fw_minus_nonfw,p_value,sig,fw_higher
+Subscribed alert service / app,13,54.2,6,50.0,7,58.3,-8.3,1.0,,
+Wireless Emergency Alerts,9,37.5,5,41.7,4,33.3,8.4,1.0,,✓
+Internet / news website,9,37.5,4,33.3,5,41.7,-8.4,1.0,,
+Other,8,33.3,4,33.3,4,33.3,0.0,1.0,,
+Reverse 911 call,7,29.2,5,41.7,2,16.7,25.0,0.3707,,✓
+Television announcement,6,25.0,3,25.0,3,25.0,0.0,1.0,,
+Someone told you (neighbor/friend/family),6,25.0,4,33.3,2,16.7,16.6,0.6404,,✓
+First responder (door-to-door),4,16.7,2,16.7,2,16.7,0.0,1.0,,
+Social media,2,8.3,1,8.3,1,8.3,0.0,1.0,,
+Sirens,2,8.3,2,16.7,0,0.0,16.7,0.4783,,✓
+Radio announcement,1,4.2,0,0.0,1,8.3,-8.3,1.0,,
+Billboard / road message board,1,4.2,0,0.0,1,8.3,-8.3,1.0,,
+I don't know,1,4.2,1,8.3,0,0.0,8.3,1.0,,✓

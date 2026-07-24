@@ -1,0 +1,18 @@
+zone,variable,response,all_pct,all_n,all_den,fw_pct,fw_n,fw_den,nonfw_pct,nonfw_n,nonfw_den
+Zone 0,zone0_maintenance_frequency,Annually,3.9,3,77,2.4,1,41,5.6,2,36
+Zone 0,zone0_maintenance_frequency,Monthly or more frequently,74.0,57,77,80.5,33,41,66.7,24,36
+Zone 0,zone0_maintenance_frequency,Seasonally,11.7,9,77,7.3,3,41,16.7,6,36
+Zone 0,zone0_maintenance_frequency,Not sure,5.2,4,77,4.9,2,41,5.6,2,36
+Zone 0,zone0_maintenance_frequency,Quarterly,5.2,4,77,4.9,2,41,5.6,2,36
+Zone 1,zone1_maintenance_frequency,Annually,5.2,14,270,7.0,11,157,2.7,3,113
+Zone 1,zone1_maintenance_frequency,Never,1.5,4,270,0.6,1,157,2.7,3,113
+Zone 1,zone1_maintenance_frequency,Monthly or more frequently,66.7,180,270,69.4,109,157,62.8,71,113
+Zone 1,zone1_maintenance_frequency,Seasonally,14.4,39,270,14.0,22,157,15.0,17,113
+Zone 1,zone1_maintenance_frequency,Quarterly,8.5,23,270,6.4,10,157,11.5,13,113
+Zone 1,zone1_maintenance_frequency,Not sure,3.7,10,270,2.5,4,157,5.3,6,113
+Zone 2,zone2_maintenance_frequency,Annually,1.7,1,60,0.0,0,35,4.0,1,25
+Zone 2,zone2_maintenance_frequency,Never,3.3,2,60,0.0,0,35,8.0,2,25
+Zone 2,zone2_maintenance_frequency,Monthly or more frequently,58.3,35,60,65.7,23,35,48.0,12,25
+Zone 2,zone2_maintenance_frequency,Seasonally,21.7,13,60,20.0,7,35,24.0,6,25
+Zone 2,zone2_maintenance_frequency,Quarterly,13.3,8,60,14.3,5,35,12.0,3,25
+Zone 2,zone2_maintenance_frequency,Not sure,1.7,1,60,0.0,0,35,4.0,1,25

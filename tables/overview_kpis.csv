@@ -1,0 +1,5 @@
+metric,all_pct,all_n,all_den,fw_pct,fw_n,fw_den,nonfw_pct,nonfw_n,nonfw_den,diff_fw_minus_nonfw,p_value,sig,fw_higher,note
+Renters,5.4,4,74,2.6,1,39,8.6,3,35,-6.0,0.3388,,,TINY n (ownership asked of ~74)
+Has fire insurance,94.5,52,55,96.6,28,29,92.3,24,26,4.3,0.5976,,✓,extension; small n
+Uses gardener/landscaper,67.5,52,77,75.6,31,41,58.3,21,36,17.3,0.1702,,✓,extension
+Comfortable in English,100.0,274,274,100.0,154,154,100.0,120,120,0.0,1.0,,,respondent

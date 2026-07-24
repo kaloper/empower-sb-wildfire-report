@@ -1,0 +1,3 @@
+option,n_all,pct_all,fw_n,fw_pct,nonfw_n,nonfw_pct,diff_fw_minus_nonfw,p_value,sig,fw_higher
+"Everyday help (groceries, mail, trash bins)",56,86.2,30,90.9,26,81.2,9.7,0.3034,,✓
+"Care (childcare, pet care, plant care)",48,73.8,25,75.8,23,71.9,3.9,0.9412,,✓

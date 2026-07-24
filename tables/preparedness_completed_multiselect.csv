@@ -1,0 +1,14 @@
+option,n_all,pct_all,fw_n,fw_pct,nonfw_n,nonfw_pct,diff_fw_minus_nonfw,p_value,sig,fw_higher
+Back-up important documents,55,72.4,33,82.5,22,61.1,21.4,0.068,,✓
+Household emergency planning,54,71.1,31,77.5,23,63.9,13.6,0.2923,,✓
+Defensible space maintenance,45,59.2,30,75.0,15,41.7,33.3,0.0066,**,✓
+Emergency Go Bag & supplies,41,53.9,23,57.5,18,50.0,7.5,0.6712,,✓
+Spring 2024 chipper events,28,36.8,23,57.5,5,13.9,43.6,0.0002,***,✓
+Spring 2025 chipper events,27,35.5,21,52.5,6,16.7,35.8,0.0025,**,✓
+Structural hardening / retrofit,27,35.5,16,40.0,11,30.6,9.4,0.5359,,✓
+Home Ignition Zone assessment,26,34.2,21,52.5,5,13.9,38.6,0.001,***,✓
+Emergency prep/training group (CERT etc.),23,30.3,18,45.0,5,13.9,31.1,0.007,**,✓
+2024 wildfire education activities,23,30.3,19,47.5,4,11.1,36.4,0.0014,**,✓
+Practiced community evacuation drill,8,10.5,7,17.5,1,2.8,14.7,0.059,,✓
+Practiced household evacuation drill,7,9.2,5,12.5,2,5.6,6.9,0.4353,,✓
+None of the above,6,7.9,1,2.5,5,13.9,-11.4,0.0954,,

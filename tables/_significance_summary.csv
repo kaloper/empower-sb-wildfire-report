@@ -1,0 +1,127 @@
+figure,category,fw_value,nonfw_value,diff_fw_minus_nonfw,p_value,significant,test
+risk_experience_aggregate.png,Evacuated from home,70.9,43.5,27.4,0.0,True,2-prop χ²/Fisher
+risk_concern_means.png,Property damage,77.4,49.2,28.2,0.0,True,Mann–Whitney U
+community_infrastructure.png,Neighborhood holds social events,95.0,50.0,45.0,0.0,True,2-prop χ²/Fisher
+community_infrastructure.png,Local wildfire-prep discussion group,82.5,11.4,71.1,0.0,True,2-prop χ²/Fisher
+community_discussed_with.png,Neighbors,82.1,22.9,59.2,0.0,True,2-prop χ²/Fisher
+community_helped_neighbor.png,Helped OR advised a neighbor,64.1,14.3,49.8,0.0,True,2-prop χ²/Fisher
+community_infrastructure.png,Neighborhood newsletter / social media,75.0,27.8,47.2,0.0001,True,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Spring 2024 chipper events,57.5,13.9,43.6,0.0002,True,2-prop χ²/Fisher
+risk_experience_aggregate.png,Seen an active fireline,69.7,50.0,19.7,0.0005,True,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Home Ignition Zone assessment,52.5,13.9,38.6,0.001,True,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,2024 wildfire education activities,47.5,11.1,36.4,0.0014,True,2-prop χ²/Fisher
+community_discussed_with.png,SB County Fire Safe Council,43.6,8.6,35.0,0.0018,True,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Spring 2025 chipper events,52.5,16.7,35.8,0.0025,True,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Defensible space maintenance,75.0,41.7,33.3,0.0066,True,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Other,60.0,0.0,60.0,0.0068,True,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Emergency prep/training group (CERT etc.),45.0,13.9,31.1,0.007,True,2-prop χ²/Fisher
+risk_experience_aggregate.png,Property destroyed (own),23.6,11.7,11.9,0.0084,True,2-prop χ²/Fisher
+community_discussed_with.png,Friends / family / household,79.5,48.6,30.9,0.0112,True,2-prop χ²/Fisher
+preparedness_activities.png,Home Ignition Zone assessment,10.9,3.2,7.7,0.0152,True,2-prop χ²/Fisher
+community_discussed_with.png,None of the above,5.1,28.6,-23.5,0.0157,True,2-prop χ²/Fisher
+defensible_zone_actions.png,Zone 2: Annual grasses trimmed below 4 inches,97.1,76.0,21.1,0.0173,True,2-prop χ²/Fisher
+risk_concern_means.png,Economic loss,44.5,30.8,13.7,0.0221,True,Mann–Whitney U
+risk_experience_aggregate.png,Property destroyed (neighborhood),29.7,18.2,11.5,0.0232,True,2-prop χ²/Fisher
+defensible_perceived_effectiveness.png,Community coordination,80.0,63.9,16.1,0.0242,True,Mann–Whitney U
+hardening_reasons_not_made.png,Unnecessary (would not increase resilience),5.0,25.0,-20.0,0.0317,True,2-prop χ²/Fisher
+community_discussed_with.png,"Local representatives (fire dept, leaders)",48.7,22.9,25.8,0.0389,True,2-prop χ²/Fisher
+risk_likelihood.png,Impact home in lifetime,80.0,63.9,16.1,0.0471,True,Mann–Whitney U
+preparedness_activities.png,Emergency prep/training group,9.1,3.2,5.9,0.0548,False,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Practiced community evacuation drill,17.5,2.8,14.7,0.059,False,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Back-up important documents,82.5,61.1,21.4,0.068,False,2-prop χ²/Fisher
+hardening_reasons_not_made.png,Other,37.5,16.7,20.8,0.0765,False,2-prop χ²/Fisher
+defensible_perceived_effectiveness.png,Vegetation management,87.5,86.1,1.4,0.0774,False,Mann–Whitney U
+preparedness_activities.png,Defensible-space maintenance,17.0,9.7,7.3,0.0845,False,2-prop χ²/Fisher
+community_infrastructure.png,Communications contain preparation content,93.3,70.0,23.3,0.0893,False,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,None of the above,2.5,13.9,-11.4,0.0954,False,2-prop χ²/Fisher
+defensible_perceived_effectiveness.png,Evacuation planning,80.0,69.4,10.6,0.1115,False,Mann–Whitney U
+defensible_zone_actions.png,Zone 0: Live plants removed within 5 feet,85.4,97.2,-11.8,0.1133,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,No one else does it,0.0,22.2,-22.2,0.1304,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Don't own my home,0.0,22.2,-22.2,0.1304,False,2-prop χ²/Fisher
+community_infrastructure.png,Trust most people in neighborhood,95.0,83.3,11.7,0.1396,False,2-prop χ²/Fisher
+risk_concern_means.png,Physical injury,29.0,24.2,4.8,0.1554,False,Mann–Whitney U
+hardening_baseline_adjusted.png,Already hardened prior to ownership,22.5,8.3,14.2,0.1688,False,2-prop χ²/Fisher
+hardening_reasons_not_made.png,Already completed / already done,22.5,8.3,14.2,0.1688,False,2-prop χ²/Fisher
+community_helped_neighbor.png,Physically helped a neighbor (defensible space),23.1,8.6,14.5,0.1693,False,2-prop χ²/Fisher
+overview_kpis.png,Uses gardener/landscaper,75.6,58.3,17.3,0.1702,False,2-prop χ²/Fisher
+hardening_upgrades_made.png,Housekeeping (debris removal),82.5,66.7,15.8,0.1847,False,2-prop χ²/Fisher
+hardening_upgrades_made.png,Weather stripping (garage doors),32.5,16.7,15.8,0.1847,False,2-prop χ²/Fisher
+defensible_perceived_effectiveness.png,Creating defensible space,80.0,66.7,13.3,0.1937,False,Mann–Whitney U
+overview_age.png,mean age (bracket midpoints),62.5,59.5,3.0,0.2037,False,Mann–Whitney U
+preparedness_activities.png,Back-up important documents,18.8,13.0,5.8,0.2077,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Cost,73.3,44.4,28.9,0.2119,False,2-prop χ²/Fisher
+risk_likelihood.png,Impact home in next year,37.5,27.8,9.7,0.2257,False,Mann–Whitney U
+risk_neighbor_perceptions.png,Good Partners,90.0,77.8,12.2,0.2526,False,2-prop χ²/Fisher
+defensible_perceived_effectiveness.png,Emergency alerts,75.0,63.9,11.1,0.2745,False,Mann–Whitney U
+defensible_zone_actions.png,Zone 0: Non-combustible groundcover used,80.5,91.7,-11.2,0.2836,False,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Household emergency planning,77.5,63.9,13.6,0.2923,False,2-prop χ²/Fisher
+community_favors.png,"Everyday help (groceries, mail, trash bins)",90.9,81.2,9.7,0.3034,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Not enough time,13.3,33.3,-20.0,0.3256,False,2-prop χ²/Fisher
+overview_kpis.png,Renters,2.6,8.6,-6.0,0.3388,False,2-prop χ²/Fisher
+hardening_reasons_not_made.png,Do not own my home,2.5,8.3,-5.8,0.3398,False,2-prop χ²/Fisher
+defensible_vegetation_activities.png,Clear understory near trees/large shrubs,66.7,47.1,19.6,0.3504,False,2-prop χ²/Fisher
+community_discussed_with.png,Other,10.3,2.9,7.4,0.3614,False,2-prop χ²/Fisher
+risk_info_sources.png,Reverse 911 call,41.7,16.7,25.0,0.3707,False,2-prop χ²/Fisher
+defensible_vegetation_activities.png,Other,20.8,5.9,14.9,0.3725,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,No opportunity to engage,0.0,11.1,-11.1,0.375,False,2-prop χ²/Fisher
+defensible_zone_actions.png,Zone 1: Large shrub branches removed,79.0,73.7,5.3,0.3825,False,2-prop χ²/Fisher
+defensible_vegetation_activities.png,HOA maintains exterior structures,0.0,5.9,-5.9,0.4146,False,2-prop χ²/Fisher
+defensible_vegetation_activities.png,None of the above,0.0,5.9,-5.9,0.4146,False,2-prop χ²/Fisher
+defensible_zone_actions.png,Zone 2: Shrub clumps horizontally separated,45.7,32.0,13.7,0.4227,False,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Practiced household evacuation drill,12.5,5.6,6.9,0.4353,False,2-prop χ²/Fisher
+community_discussed_with.png,Prefer not to answer,0.0,2.9,-2.9,0.473,False,2-prop χ²/Fisher
+risk_info_sources.png,Sirens,16.7,0.0,16.7,0.4783,False,2-prop χ²/Fisher
+preparedness_activities.png,Structural hardening upgrades,8.5,5.8,2.7,0.4873,False,2-prop χ²/Fisher
+community_infrastructure.png,Neighborhood has a Beacon Box,5.1,0.0,5.1,0.4946,False,2-prop χ²/Fisher
+preparedness_activities.png,Household emergency planning,17.0,13.6,3.4,0.503,False,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Structural hardening / retrofit,40.0,30.6,9.4,0.5359,False,2-prop χ²/Fisher
+defensible_vegetation_activities.png,Clear vegetation overhead & beside roads,50.0,35.3,14.7,0.5383,False,2-prop χ²/Fisher
+overview_kpis.png,Has fire insurance,96.6,92.3,4.3,0.5976,False,2-prop χ²/Fisher
+hardening_awareness.png,Aware of pre-fire-season deadline,82.5,75.0,7.5,0.6037,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Lack of education on strategies,13.3,22.2,-8.9,0.6146,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Lack of community support,20.0,33.3,-13.3,0.6349,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Lack of public support,20.0,33.3,-13.3,0.6349,False,2-prop χ²/Fisher
+risk_info_sources.png,Someone told you (neighbor/friend/family),33.3,16.7,16.6,0.6404,False,2-prop χ²/Fisher
+hardening_upgrades_made.png,Exterior wall / siding,32.5,25.0,7.5,0.6408,False,2-prop χ²/Fisher
+preparedness_activities.png,Emergency Go Bag & supplies,13.3,11.0,2.3,0.6498,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Aesthetics,33.3,22.2,11.1,0.6687,False,2-prop χ²/Fisher
+preparedness_completed_multiselect.png,Emergency Go Bag & supplies,57.5,50.0,7.5,0.6712,False,2-prop χ²/Fisher
+defensible_perceived_effectiveness.png,Hardening the home,51.3,47.2,4.1,0.6793,False,Mann–Whitney U
+hardening_upgrades_made.png,Deck improvements,22.5,16.7,5.8,0.7268,False,2-prop χ²/Fisher
+defensible_vegetation_activities.png,Thin shrubs 10ft from road/driveway,50.0,58.8,-8.8,0.8101,False,2-prop χ²/Fisher
+risk_neighbor_perceptions.png,Worrying Partners,55.0,50.0,5.0,0.8369,False,2-prop χ²/Fisher
+risk_experience_aggregate.png,Heard about wildfire from others,47.9,46.1,1.8,0.8375,False,2-prop χ²/Fisher
+hardening_upgrades_made.png,Roof improvements,42.5,47.2,-4.7,0.8553,False,2-prop χ²/Fisher
+defensible_zone_actions.png,Zone 1: Plants watered regularly,89.2,87.7,1.5,0.859,False,2-prop χ²/Fisher
+risk_concern_means.png,Poor air quality,21.2,21.0,0.2,0.9,False,Mann–Whitney U
+risk_experience_aggregate.png,Negative health effects,15.8,16.9,-1.1,0.9043,False,2-prop χ²/Fisher
+hardening_upgrades_made.png,Enclosing eaves,20.0,16.7,3.3,0.9378,False,2-prop χ²/Fisher
+community_favors.png,"Care (childcare, pet care, plant care)",75.8,71.9,3.9,0.9412,False,2-prop χ²/Fisher
+overview_kpis.png,Comfortable in English,100.0,100.0,0.0,1.0,False,2-prop χ²/Fisher
+defensible_vegetation_activities.png,No maintenance necessary,8.3,11.8,-3.5,1.0,False,2-prop χ²/Fisher
+hardening_upgrades_made.png,Signage / address numbers,45.0,44.4,0.6,1.0,False,2-prop χ²/Fisher
+hardening_upgrades_made.png,Vent improvements (ember-resistant),42.5,41.7,0.8,1.0,False,2-prop χ²/Fisher
+hardening_upgrades_made.png,Window improvements,42.5,41.7,0.8,1.0,False,2-prop χ²/Fisher
+hardening_baseline_adjusted.png,Made ≥1 upgrade (self),90.0,91.7,-1.7,1.0,False,2-prop χ²/Fisher
+hardening_baseline_adjusted.png,Hardened — self OR pre-existing (baseline-adjusted),90.0,91.7,-1.7,1.0,False,2-prop χ²/Fisher
+hardening_reasons_not_made.png,None of the above,15.0,16.7,-1.7,1.0,False,2-prop χ²/Fisher
+hardening_reasons_not_made.png,HOA maintains exterior structures,12.5,13.9,-1.4,1.0,False,2-prop χ²/Fisher
+hardening_reasons_not_made.png,Didn't know it was a problem,10.0,8.3,1.7,1.0,False,2-prop χ²/Fisher
+hardening_reasons_not_made.png,No financial means,10.0,8.3,1.7,1.0,False,2-prop χ²/Fisher
+hardening_reasons_not_made.png,Prefer not to answer,2.5,2.8,-0.3,1.0,False,2-prop χ²/Fisher
+hardening_awareness.png,Trees trimmed in last 5 yrs,94.9,94.3,0.6,1.0,False,2-prop χ²/Fisher
+risk_experience_aggregate.png,Lasting health effects,1.8,1.9,-0.1,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,Subscribed alert service / app,50.0,58.3,-8.3,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,Wireless Emergency Alerts,41.7,33.3,8.4,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,Internet / news website,33.3,41.7,-8.4,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,Other,33.3,33.3,0.0,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,Television announcement,25.0,25.0,0.0,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,First responder (door-to-door),16.7,16.7,0.0,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,Social media,8.3,8.3,0.0,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,Radio announcement,0.0,8.3,-8.3,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,Billboard / road message board,0.0,8.3,-8.3,1.0,False,2-prop χ²/Fisher
+risk_info_sources.png,I don't know,8.3,0.0,8.3,1.0,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Access to gardening/landscaping help,20.0,22.2,-2.2,1.0,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Lack of community engagement,20.0,11.1,8.9,1.0,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Low perception of risk,13.3,11.1,2.2,1.0,False,2-prop χ²/Fisher
+risk_barriers_to_mitigation.png,Lack of communication,6.7,11.1,-4.4,1.0,False,2-prop χ²/Fisher

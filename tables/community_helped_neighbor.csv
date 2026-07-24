@@ -1,0 +1,3 @@
+metric,all_pct,all_n,all_den,fw_pct,fw_n,fw_den,nonfw_pct,nonfw_n,nonfw_den,diff_fw_minus_nonfw,p_value,sig,fw_higher,note
+Physically helped a neighbor (defensible space),16.2,12,74,23.1,9,39,8.6,3,35,14.5,0.1693,,✓,
+Helped OR advised a neighbor,40.5,30,74,64.1,25,39,14.3,5,35,49.8,0.0,***,✓,

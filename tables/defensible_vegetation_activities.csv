@@ -1,0 +1,8 @@
+option,n_all,pct_all,fw_n,fw_pct,nonfw_n,nonfw_pct,diff_fw_minus_nonfw,p_value,sig,fw_higher
+Clear understory near trees/large shrubs,24,58.5,16,66.7,8,47.1,19.6,0.3504,,✓
+Thin shrubs 10ft from road/driveway,22,53.7,12,50.0,10,58.8,-8.8,0.8101,,
+Clear vegetation overhead & beside roads,18,43.9,12,50.0,6,35.3,14.7,0.5383,,✓
+Other,6,14.6,5,20.8,1,5.9,14.9,0.3725,,✓
+No maintenance necessary,4,9.8,2,8.3,2,11.8,-3.5,1.0,,
+HOA maintains exterior structures,1,2.4,0,0.0,1,5.9,-5.9,0.4146,,
+None of the above,1,2.4,0,0.0,1,5.9,-5.9,0.4146,,

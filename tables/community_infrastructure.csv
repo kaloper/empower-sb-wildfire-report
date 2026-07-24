@@ -1,0 +1,7 @@
+metric,all_pct,all_n,all_den,fw_pct,fw_n,fw_den,nonfw_pct,nonfw_n,nonfw_den,diff_fw_minus_nonfw,p_value,sig,fw_higher,note
+Neighborhood newsletter / social media,52.6,40,76,75.0,30,40,27.8,10,36,47.2,0.0001,***,✓,extension
+Communications contain preparation content,87.5,35,40,93.3,28,30,70.0,7,10,23.3,0.0893,,✓,gated
+Neighborhood holds social events,73.7,56,76,95.0,38,40,50.0,18,36,45.0,0.0,***,✓,extension
+Local wildfire-prep discussion group,49.3,37,75,82.5,33,40,11.4,4,35,71.1,0.0,***,✓,extension
+Trust most people in neighborhood,89.5,68,76,95.0,38,40,83.3,30,36,11.7,0.1396,,✓,extension
+Neighborhood has a Beacon Box,2.7,2,74,5.1,2,39,0.0,0,35,5.1,0.4946,,✓,extension
