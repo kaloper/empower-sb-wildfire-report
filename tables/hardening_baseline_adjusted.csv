@@ -1,4 +1,0 @@
-metric,all_pct,fw_pct,fw_den,nonfw_pct,nonfw_den,diff_fw_minus_nonfw,p_value,sig
-Made ≥1 upgrade (self),90.8,90.0,40,91.7,36,-1.7,1.0,
-Already hardened prior to ownership,15.8,22.5,40,8.3,36,14.2,0.1688,
-Hardened — self OR pre-existing (baseline-adjusted),90.8,90.0,40,91.7,36,-1.7,1.0,

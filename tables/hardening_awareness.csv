@@ -1,3 +1,0 @@
-metric,all_pct,all_n,all_den,fw_pct,fw_n,fw_den,nonfw_pct,nonfw_n,nonfw_den,diff_fw_minus_nonfw,p_value,sig,fw_higher,note
-Trees trimmed in last 5 yrs,94.6,70,74,94.9,37,39,94.3,33,35,0.6,1.0,,✓,extension
-Aware of pre-fire-season deadline,78.9,60,76,82.5,33,40,75.0,27,36,7.5,0.6037,,✓,extension

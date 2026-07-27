@@ -1,8 +1,0 @@
-activity,pct_all,n_engaged,fw_pct,fw_n,nonfw_pct,nonfw_n,diff_fw_minus_nonfw,p_value,sig,fw_higher
-Back-up important documents,16.0,51,18.8,31,13.0,20,5.8,0.2077,,✓
-Household emergency planning,15.4,49,17.0,28,13.6,21,3.4,0.503,,✓
-Defensible-space maintenance,13.5,43,17.0,28,9.7,15,7.3,0.0845,,✓
-Emergency Go Bag & supplies,12.2,39,13.3,22,11.0,17,2.3,0.6498,,✓
-Home Ignition Zone assessment,7.2,23,10.9,18,3.2,5,7.7,0.0152,*,✓
-Structural hardening upgrades,7.2,23,8.5,14,5.8,9,2.7,0.4873,,✓
-Emergency prep/training group,6.3,20,9.1,15,3.2,5,5.9,0.0548,,✓

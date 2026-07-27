@@ -1,3 +1,0 @@
-label,all_mean,all_n,fw_mean,fw_se,fw_q1,fw_med,fw_q3,fw_n,nonfw_mean,nonfw_se,nonfw_q1,nonfw_med,nonfw_q3,nonfw_n,diff_fw_minus_nonfw,p_value,sig,fw_higher
-Impact home in lifetime,4.03,76,4.25,0.14209964001470127,4.0,4.5,5.0,40,3.7777777777777777,0.1786684040032407,3.0,4.0,5.0,36,0.47,0.0471,*,✓
-Impact home in next year,3.0,76,3.125,0.1395390764128595,2.75,3.0,4.0,40,2.861111111111111,0.1498823759866159,2.0,3.0,4.0,36,0.26,0.2257,,✓

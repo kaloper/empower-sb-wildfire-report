@@ -1,8 +1,0 @@
-experience,pct_all,n_all,fw_pct,fw_n,nonfw_pct,nonfw_n,diff_fw_minus_nonfw,p_value,sig
-Seen an active fireline,60.2,192,69.7,115,50.0,77,19.7,0.0005,***
-Evacuated from home,57.7,184,70.9,117,43.5,67,27.4,0.0,***
-Heard about wildfire from others,47.0,150,47.9,79,46.1,71,1.8,0.8375,
-Property destroyed (neighborhood),24.1,77,29.7,49,18.2,28,11.5,0.0232,*
-Property destroyed (own),17.9,57,23.6,39,11.7,18,11.9,0.0084,**
-Negative health effects,16.3,52,15.8,26,16.9,26,-1.1,0.9043,
-Lasting health effects,1.9,6,1.8,3,1.9,3,-0.1,1.0,

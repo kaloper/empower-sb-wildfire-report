@@ -1,8 +1,0 @@
-option,n_all,pct_all,fw_n,fw_pct,nonfw_n,nonfw_pct,diff_fw_minus_nonfw,p_value,sig,fw_higher
-Friends / family / household,48,64.9,31,79.5,17,48.6,30.9,0.0112,*,✓
-Neighbors,40,54.1,32,82.1,8,22.9,59.2,0.0,***,✓
-"Local representatives (fire dept, leaders)",27,36.5,19,48.7,8,22.9,25.8,0.0389,*,✓
-SB County Fire Safe Council,20,27.0,17,43.6,3,8.6,35.0,0.0018,**,✓
-None of the above,12,16.2,2,5.1,10,28.6,-23.5,0.0157,*,
-Other,5,6.8,4,10.3,1,2.9,7.4,0.3614,,✓
-Prefer not to answer,1,1.4,0,0.0,1,2.9,-2.9,0.473,,
